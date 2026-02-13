@@ -1,2 +1,5 @@
 # Bomb Defuse
-A terminal-based puzzle game featuring a moody, glitchy robot assistant. You play as an operator controlling the robot. Your task is to defuse a bomb by giving commands to your robot the terminal. However, your robot may not always follow your orders. There is also a stress mechanism: if you cut the wrong wire, the robot's stress increases. When the robot is stressed, it will stop listening to you and start making excuses more often.
+
+A terminal-based puzzle game featuring a moody, glitchy robot assistant. You play as an operator controlling the robot through a terminal. Your task is to defuse a bomb by sending commands to your robot.
+
+However, the robot may not always follow your orders. There is a stress mechanism: every command or action increases the robot's stress level. When the robot is stressed, it may stop listening to you and start making excuses. Also, while you are typing commands, random ads might pop up to make typing more challenging.
